@@ -1,0 +1,5 @@
+TODO:
+
+implement not dooky butt painters algorithm
+rewrite the whole fucking thing
+pair each face with its z depth for drawing
